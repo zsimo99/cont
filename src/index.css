@@ -37,3 +37,6 @@
 .headerShadow{
     text-shadow: 0 0 10px rgba(78, 44, 78, 1)
 }
+.rotate {
+    transform: rotateY(-180deg);
+  }
