@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        header: ['Oswald']
+        header: ['Roboto']
       }
     },
   },
